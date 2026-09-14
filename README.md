@@ -32,3 +32,7 @@ Humanoid dexterous manipulation · tactile feedback · real-robot control
 <h3 align="right">
   <i>𝒜 𝒯𝓇𝒶𝓃𝓈𝒻ℴ𝓇𝓂𝒾𝓃ℊ ℒ𝒶𝓅𝓁𝒶𝒸ℯ𝓇</i>
 </h3>
+
+<h2 align="right">
+  <i>𝒜 𝒯𝓇𝒶𝓃𝓈𝒻ℴ𝓇𝓂𝒾𝓃ℊ ℒ𝒶𝓅𝓁𝒶𝒸ℯ𝓇</i>
+</h2>
