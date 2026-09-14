@@ -1,4 +1,4 @@
-# A Transforming Laplacer
+# Yuxiang Wu
 
 **Robotics Control & Dexterous Manipulation**  
 M.Sc. in Computer Control and Automation @ NTU  
