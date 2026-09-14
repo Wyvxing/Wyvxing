@@ -12,7 +12,6 @@ M.Sc. in Computer Control and Automation ***@*** 𝑵𝑻𝑼<br>
 ## Experience
 
 **Control Algorithm Engineer** ***@*** 𝑩𝑩𝑲 / 𝑺𝑬𝑹𝑽𝑶𝑻𝑬𝑺𝑻<br>
-MIMO system identification · iterative control · online adaptation
 
 **Full-time Research Staff** ***@*** 𝑩𝒆𝒊𝒉𝒂𝒏𝒈 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚<br>
 Technical Lead for a National Key R&D Program subproject
@@ -20,6 +19,10 @@ Technical Lead for a National Key R&D Program subproject
 ---
 
 ## Selected Work
+
+### MIMO Iterative Control · ICS / RICS
+
+MIMO system identification · iterative control · online adaptation
 
 ### G1 + Revo2 Tactile Control
 
