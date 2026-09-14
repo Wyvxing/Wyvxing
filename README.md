@@ -30,5 +30,5 @@ Humanoid dexterous manipulation · tactile feedback · real-robot control
 **Programming** — MATLAB/Simulink · Python · C/C++
 
 <p align="center">
-  <sub><i>𝒜 𝒯𝓇𝒶𝓃𝓈𝒻ℴ𝓇𝓂𝒾𝓃ℊ ℒ𝒶𝓅𝓁𝒶𝒸ℯ𝓇</i></sub>
+  <i>𝒜 𝒯𝓇𝒶𝓃𝓈𝒻ℴ𝓇𝓂𝒾𝓃ℊ ℒ𝒶𝓅𝓁𝒶𝒸ℯ𝓇</i>
 </p>
