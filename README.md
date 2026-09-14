@@ -1,8 +1,8 @@
-# 𝒀𝒖𝒙𝒊𝒂𝒏𝒈 𝑾𝒖
+# Yuxiang Wu
 
-### 𝑹𝒐𝒃𝒐𝒕𝒊𝒄𝒔 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 & 𝑫𝒆𝒙𝒕𝒆𝒓𝒐𝒖𝒔 𝑴𝒂𝒏𝒊𝒑𝒖𝒍𝒂𝒕𝒊𝒐𝒏
+### Model-Based Control · Dexterous & Tactile Manipulation
 
-M.Sc. in Computer Control and Automation ***@*** 𝑵𝑻𝑼<br>
+M.Sc. Student in Computer Control and Automation **@ NTU**  
 2+ years of full-time control R&D experience
 
 **Current focus:** Humanoid manipulation · tactile-feedback control · adaptive / iterative control
@@ -11,22 +11,35 @@ M.Sc. in Computer Control and Automation ***@*** 𝑵𝑻𝑼<br>
 
 ## Experience
 
-**Control Algorithm Engineer** ***@*** 𝑩𝑩𝑲 / 𝑺𝑬𝑹𝑽𝑶𝑻𝑬𝑺𝑻<br>
+**Control Algorithm Engineer @ BBK / SERVOTEST**  
+Multi-DOF control · MIMO system identification · iterative control
 
-**Full-time Research Staff** ***@*** 𝑩𝒆𝒊𝒉𝒂𝒏𝒈 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚<br>
+**Full-time Research Staff @ Beihang University**  
 Technical Lead for a National Key R&D Program subproject
 
 ---
 
 ## Selected Work
 
-### MIMO Iterative Control · ICS / RICS
+### [ICS / RICS Control](https://github.com/Wyvxing/ics-rics-control)
 
-MIMO system identification · iterative control · online adaptation
+**MIMO system identification · iterative control · online adaptation**
+
+Synthetic MIMO implementation and technical study covering:
+- frequency-domain MIMO system identification,
+- ICS trial-to-trial iterative correction,
+- RICS/HRICS-inspired online model adaptation,
+- coherence-based model correction,
+- confidence-weighted model blending.
+
+Full MATLAB implementation is maintained privately; methodology, validated synthetic results, and technical documentation are publicly available.
 
 ### G1 + Revo2 Tactile Control
 
-Humanoid dexterous manipulation · tactile feedback · real-robot control
+**Humanoid dexterous manipulation · tactile feedback · real-robot control**
+
+Unitree G1 humanoid + BrainCo Revo2 dexterous hand.  
+Current work focuses on tactile-feedback grasping and adaptive control.
 
 **In progress** — repository forthcoming: `Wyvxing/g1-revo2-tactile-control`
 
@@ -35,7 +48,7 @@ Humanoid dexterous manipulation · tactile feedback · real-robot control
 ## Technical Focus
 
 **Control**  
-MIMO System Identification · ICS/RICS · Adaptive Control · Iterative Learning Control · PPC · SMC · ESO
+Model-Based Control · MIMO System Identification · ICS/RICS · Adaptive Control · Iterative Learning Control · PPC · SMC · ESO
 
 **Robotics**  
 Humanoid Manipulation · Dexterous Hand Control · Tactile Feedback · MuJoCo · ROS/SDK Integration
