@@ -2,7 +2,7 @@
 
 ### 𝑹𝒐𝒃𝒐𝒕𝒊𝒄𝒔 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 & 𝑫𝒆𝒙𝒕𝒆𝒓𝒐𝒖𝒔 𝑴𝒂𝒏𝒊𝒑𝒖𝒍𝒂𝒕𝒊𝒐𝒏
 
-M.Sc. in Computer Control and Automation ***@*** 𝑵𝑻𝑼 
+M.Sc. in Computer Control and Automation ***@*** 𝑵𝑻𝑼<br>
 2+ years of full-time control R&D experience
 
 **Current focus:** Humanoid manipulation · tactile-feedback control · adaptive / iterative control
@@ -11,10 +11,10 @@ M.Sc. in Computer Control and Automation ***@*** 𝑵𝑻𝑼
 
 ## Experience
 
-**Control Algorithm Engineer** ***@*** 𝑩𝑩𝑲 / 𝑺𝑬𝑹𝑽𝑶𝑻𝑬𝑺𝑻
+**Control Algorithm Engineer** ***@*** 𝑩𝑩𝑲 / 𝑺𝑬𝑹𝑽𝑶𝑻𝑬𝑺𝑻<br>
 MIMO system identification · iterative control · online adaptation
 
-**Full-time Research Staff** ***@*** 𝑩𝒆𝒊𝒉𝒂𝒏𝒈 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚
+**Full-time Research Staff** ***@*** 𝑩𝒆𝒊𝒉𝒂𝒏𝒈 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚<br>
 Technical Lead for a National Key R&D Program subproject
 
 ---
