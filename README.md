@@ -2,7 +2,7 @@
 
 ### Model-Based Control · Dexterous & Tactile Manipulation
 
-M.Sc. Student in Computer Control and Automation **@ NTU**  
+M.Sc. Student in Computer Control and Automation **@ NTU EEE**  
 2+ years of full-time control R&D experience
 
 **Current focus:** Humanoid manipulation · tactile-feedback control · adaptive / iterative control
