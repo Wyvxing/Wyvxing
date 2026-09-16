@@ -43,6 +43,14 @@ Synthetic MIMO implementation and technical study covering:
 
 Full MATLAB implementation is maintained privately; methodology, validated synthetic results, and technical documentation are publicly available.
 
+### Nonlinear Attitude Control for Reconfigurable Aircraft
+
+**Nonlinear model-based control · coupled multivariable dynamics · prescribed performance · disturbance estimation**
+
+Attitude-control development for a strongly coupled nonlinear variable-sweep aircraft. The theoretical framework combines prescribed-performance error constraints, cascaded attitude/angular-rate control, backstepping sliding-mode control, and extended state observer (ESO)-based disturbance compensation.
+
+Engineering work included MATLAB closed-loop simulation, semi-physical simulation experiments using servo actuators, and joint integration and debugging with the client's C++ real-time simulation platform.
+
 ---
 
 ## Technical Focus
