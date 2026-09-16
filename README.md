@@ -1,13 +1,15 @@
+<img src="assets/profile-banner.svg" width="960" alt="Subtle monochrome pixel mosaic" />
+
 # Yuxiang Wu
 
-### Model-Based Control · Dexterous & Tactile Manipulation
+### Robotics Control & Dexterous Manipulation
 
 M.Sc. Student in Computer Control and Automation **@ NTU EEE**  
 2+ years of full-time control R&D experience
 
 **Current focus:** Humanoid manipulation · tactile-feedback control · adaptive / iterative control
 
----
+<img src="assets/divider-pixel.svg" width="960" alt="" />
 
 ## Experience
 
@@ -17,11 +19,11 @@ Multi-DOF control · MIMO system identification · iterative control
 **Full-time Research Staff @ Beihang University**  
 Technical Lead for a National Key R&D Program subproject
 
----
+<img src="assets/divider-pixel.svg" width="960" alt="" />
 
 ## Selected Work
 
-### [G1 + Revo2 Tactile Control](https://github.com/Wyvxing/g1-revo2-tactile-control)
+### `01` [G1 + Revo2 Tactile Control](https://github.com/Wyvxing/g1-revo2-tactile-control)
 
 **Humanoid dexterous manipulation · tactile feedback · adaptive grasp control**
 
@@ -30,7 +32,7 @@ Current work focuses on tactile grasp control, online contact/friction estimatio
 
 *Early-stage research · MuJoCo + real-robot validation in progress*
 
-### [ICS / RICS Control](https://github.com/Wyvxing/ics-rics-control)
+### `02` [ICS / RICS Control](https://github.com/Wyvxing/ics-rics-control)
 
 **MIMO system identification · iterative control · online adaptation**
 
@@ -43,7 +45,7 @@ Synthetic MIMO implementation and technical study covering:
 
 Full MATLAB implementation is maintained privately; methodology, validated synthetic results, and technical documentation are publicly available.
 
-### [Nonlinear Attitude Control for Reconfigurable Aircraft](https://github.com/Wyvxing/nonlinear-mimo-robust-control)
+### `03` [Nonlinear Attitude Control for Reconfigurable Aircraft](https://github.com/Wyvxing/nonlinear-mimo-robust-control)
 
 **Nonlinear model-based control · coupled multivariable dynamics · prescribed performance · disturbance estimation**
 
@@ -53,7 +55,7 @@ Engineering work included MATLAB closed-loop simulation, semi-physical simulatio
 
 *Related public technical reconstruction: generic nonlinear MIMO benchmark for PPC, backstepping/SMC, and disturbance-observer validation.*
 
----
+<img src="assets/divider-pixel.svg" width="960" alt="" />
 
 ## Technical Focus
 
