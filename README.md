@@ -21,6 +21,15 @@ Technical Lead for a National Key R&D Program subproject
 
 ## Selected Work
 
+### [G1 + Revo2 Tactile Control](https://github.com/Wyvxing/g1-revo2-tactile-control)
+
+**Humanoid dexterous manipulation · tactile feedback · adaptive grasp control**
+
+Unitree G1 humanoid + BrainCo Revo2 dexterous hand.  
+Current work focuses on tactile grasp control, online contact/friction estimation, and adaptive force realization.
+
+*Early-stage research · MuJoCo + real-robot validation in progress*
+
 ### [ICS / RICS Control](https://github.com/Wyvxing/ics-rics-control)
 
 **MIMO system identification · iterative control · online adaptation**
@@ -33,15 +42,6 @@ Synthetic MIMO implementation and technical study covering:
 - confidence-weighted model blending.
 
 Full MATLAB implementation is maintained privately; methodology, validated synthetic results, and technical documentation are publicly available.
-
-### G1 + Revo2 Tactile Control
-
-**Humanoid dexterous manipulation · tactile feedback · real-robot control**
-
-Unitree G1 humanoid + BrainCo Revo2 dexterous hand.  
-Current work focuses on tactile-feedback grasping and adaptive control.
-
-**In progress** — repository forthcoming: `Wyvxing/g1-revo2-tactile-control`
 
 ---
 
